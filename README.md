@@ -22,4 +22,37 @@ A simple and clean JavaScript-based web application that tracks and displays a l
 3. Clear history using the "Clear History" button
 
 ## 📁 Project Structure
+📦 browser-history-tracker/
+├── index.html # Main HTML layout
+├── style.css # Styling for the app (responsive + modern look)
+├── script.js # Core JavaScript logic for tracking and rendering
+└── README.md # Project overview and documentation
+
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## 📸 Screenshots
+
+<img src="https://github.com/yourusername/browser-history-tracker/assets/screenshot1.png" width="600" />
+<img src="https://github.com/yourusername/browser-history-tracker/assets/screenshot2.png" width="600" />
+
+## ✅ Future Improvements (Optional Ideas)
+
+- 💾 Store history in localStorage
+- 🌙 Dark mode toggle
+- 🔍 Search/filter history
+- 🔗 Link preview using Open Graph
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ by [Your Name]
+
 
